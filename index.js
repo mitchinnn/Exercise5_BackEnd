@@ -6,7 +6,7 @@ const bodyParser = require('body-parser');
 const multer = require('multer');
 
 app.get('/', (req, res) => {
-    res.send('exercise 5 by Wayne Wagiuw');
+    res.send('exercise 5 by Mitch Mumbunan');
 });
 
 // Middleware untuk request body menggunakan body parser
